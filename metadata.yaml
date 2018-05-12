@@ -1,0 +1,46 @@
+_repo: The-Flight-of-Pony-BakerA-Boy-s-Town-Story_22219
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22219-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, William D. (William Dean)
+    - Howells, W. D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: "The Flight of Pony Baker is a novel for children, one of the many stories\
+  \ written by William Dean Howells. It was published by Harper and Brothers in 1902\
+  \ in New York, New York. It tells the story of a young boy named Pony Baker who,\
+  \ throughout the book, attempts to run away from his home where he lives with his\
+  \ mother, father, and five sisters. The setting of the story is \"fifty years ago\"\
+  \ in the Boy's Town of Ohio, the state where Howells was born and raised.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_issued: '2007-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22219'
+  wikidata: Q7734436
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Runaway children -- Juvenile fiction'
+- !lcsh 'Amusements -- Juvenile fiction'
+- !lcsh 'Parent and child -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+title: 'The Flight of Pony Baker
+
+  A Boy''s Town Story'
+url: http://www.gutenberg.org/ebooks/22219
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Flight_of_Pony_Baker
