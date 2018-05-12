@@ -21,6 +21,8 @@ description: "The Flight of Pony Baker is a novel for children, one of the many 
   \ mother, father, and five sisters. The setting of the story is \"fifty years ago\"\
   \ in the Boy's Town of Ohio, the state where Howells was born and raised.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22219#The-Flight-of-Pony-BakerA-Boy-s-Town-Story
 gutenberg_issued: '2007-08-02'
 gutenberg_type: Text
 identifiers:
